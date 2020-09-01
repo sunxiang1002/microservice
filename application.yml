@@ -11,6 +11,6 @@ spring:
 spring:
   profiles: test #测试环境
   application:
-   name: microservicecloud-config-atguigu-test2
+   name: microservicecloud-config-atguigu-test3
    
 # 必须保存为UTF-8
